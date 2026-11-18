@@ -1,2 +1,7 @@
 # gilla-mod-menu
 A mod menu for the Meta Quest game 'Gilla'
+
+
+### COMING SOON - MAKE MOD REQUESTS AT ISSUES OR GIVE CODE AT PULL REQUESTS
+### TYPESCRIPT MENU AND LIB/APK MOD MENU
+### UPDATE LOGS IN RELEASES
